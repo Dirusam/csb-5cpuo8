@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dirusam.github.io/csb-5cpuo8/static/css/main.e15308f0.chunk.css",
+    "main.js": "https://dirusam.github.io/csb-5cpuo8/static/js/main.b244ea61.chunk.js",
+    "main.js.map": "https://dirusam.github.io/csb-5cpuo8/static/js/main.b244ea61.chunk.js.map",
+    "runtime-main.js": "https://dirusam.github.io/csb-5cpuo8/static/js/runtime-main.6435151b.js",
+    "runtime-main.js.map": "https://dirusam.github.io/csb-5cpuo8/static/js/runtime-main.6435151b.js.map",
+    "static/js/2.7472046a.chunk.js": "https://dirusam.github.io/csb-5cpuo8/static/js/2.7472046a.chunk.js",
+    "static/js/2.7472046a.chunk.js.map": "https://dirusam.github.io/csb-5cpuo8/static/js/2.7472046a.chunk.js.map",
+    "index.html": "https://dirusam.github.io/csb-5cpuo8/index.html",
+    "static/css/main.e15308f0.chunk.css.map": "https://dirusam.github.io/csb-5cpuo8/static/css/main.e15308f0.chunk.css.map",
+    "static/js/2.7472046a.chunk.js.LICENSE.txt": "https://dirusam.github.io/csb-5cpuo8/static/js/2.7472046a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6435151b.js",
+    "static/js/2.7472046a.chunk.js",
+    "static/css/main.e15308f0.chunk.css",
+    "static/js/main.b244ea61.chunk.js"
+  ]
+}
